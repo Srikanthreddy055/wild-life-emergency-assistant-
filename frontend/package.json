@@ -1,0 +1,26 @@
+{
+  "name": "wildlife-emergency-frontend",
+  "version": "1.0.0",
+  "description": "Enterprise UI portal for Wildlife Emergency Assistant built using Next.js, Tailwind CSS, Chart.js, and Leaflet Maps.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.379.0",
+    "chart.js": "^4.4.2",
+    "react-chartjs-2": "^5.2.0",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "postcss": "^8.4.38",
+    "autoprefixer": "^10.4.19"
+  }
+}
